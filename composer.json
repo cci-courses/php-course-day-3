@@ -1,0 +1,17 @@
+{
+    "name": "php-course/day3",
+    "description": "Simple class to print \"Hello, world\"",
+    "type": "library",
+    "require": {},
+    "authors": [
+        {
+            "name": "Elijah Zobenko",
+            "email": "ilya@zobenko.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    }
+}
